@@ -1,1 +1,3 @@
-Hello AIET!!
+Hello AIET!
+
+Welcome to Git and Kaggle Session
