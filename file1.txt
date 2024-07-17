@@ -1,4 +1,4 @@
-Hello AIET!
+Hello, AIET!!
 hi everyone
 Welcome to Git and Kaggle Session
 
